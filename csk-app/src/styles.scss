@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "primeicons/primeicons.css";
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import 'primeflex/primeflex.css';
+
+* {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1rem;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
